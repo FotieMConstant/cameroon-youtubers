@@ -10,10 +10,10 @@ module.exports = [
     "Technology",
     "Coding"
     ],
-    author: "Unknown Author",
   },
+  /**
   {
-    id: "0",
+    id: "1",
     name: "CodewithBro",
     owner: "CodewithBro Team",
     approxSubs: "220+",
@@ -22,6 +22,6 @@ module.exports = [
     "Technology",
     "Coding"
     ],
-    author: "Unknown Author",
   },
+  */
 ];
